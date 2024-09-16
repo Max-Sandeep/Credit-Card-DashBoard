@@ -1,1 +1,1 @@
-# Credit-Card-DashBoard
+This project focuses on building an interactive financial dashboard to visualize and analyze credit card data. Using SQL for data extraction and transformation, the dashboard in Power BI provides insights into customer spending patterns, credit utilization, payment trends, and overdue balances. The goal is to facilitate data-driven decision-making for financial management and credit risk assessment. The repository includes the Power BI dashboard, SQL queries, and related documentation.
